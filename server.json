@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/pjm",
   "title": "Pjm",
   "description": "Real-time electricity market data from PJM Interconnection, the largest US grid operator (13…",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/pjm",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-pjm",
