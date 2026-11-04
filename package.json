@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-pjm",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Real-time electricity market data from PJM Interconnection, the largest US grid operator (13 states plus Washington DC, about 65 million people): wholesale power prices by node, electricity generation by fuel type, and the seven-day demand forecast.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "pjm",
     "gatewaySlug": "pjm",
-    "sourceHash": "v1-e37e2fb44de28cefe18dfdd3b93b5a24aa0d2ea3376f63c284fa94c05bc46e78",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-d41adde98fe63ca1dcc738744743cc04490a03cc1b29f50f6441494b12f10624",
+    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
   }
 }
